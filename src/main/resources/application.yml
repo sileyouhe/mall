@@ -21,12 +21,6 @@ spring:
         max-idle: 8
         min-idle: 0
     connect-timeout: 3000ms
-  data:
-    elasticsearch:
-      repositories:
-        enabled: true
-  elasticsearch:
-    uris: localhost:9200
   main:
     allow-circular-references: true
 

@@ -150,11 +150,6 @@
             <version>${jjwt.version}</version>
         </dependency>
 
-        <!-- distributed search and analytics engine Elasticsearch -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
-        </dependency>
 
 <!--        Auto-Reload SpringBoot-->
         <dependency>
